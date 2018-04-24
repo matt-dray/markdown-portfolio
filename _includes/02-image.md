@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![](https://github.com/matt-dray/stickers/blob/master/output/rostrum_hex.png)
