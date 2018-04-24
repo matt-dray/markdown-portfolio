@@ -1,1 +1,12 @@
-Replace this with a list of your favorite things.
+* Grass type
+  * Bulbasaur
+  * Ivysaur
+  * Venusaur
+* Water type
+  * Squirtle
+  * Wartortle
+  * Blastoise
+* Fire type
+  * Charmander
+  * Charmeleon
+  * Charizard
